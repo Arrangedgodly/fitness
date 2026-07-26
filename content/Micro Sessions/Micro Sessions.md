@@ -1,0 +1,3 @@
+- ## Core Focused
+	- [[Total Body and Core Stability]]
+	- 
